@@ -1,2 +1,2 @@
 # wanshow.github.io
-万灵徒秀
+万灵图秀
